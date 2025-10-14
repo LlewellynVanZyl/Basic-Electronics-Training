@@ -14,3 +14,7 @@ Copy RMS folder into Test folder of SimulIDE_workspace
 Embedded Programming:  
 Arduino Functions & Concepts - Basic Electronics Course.pdf   
 
+KiCAD Exercise:  
+555 Timer Circuit SimulIDE.pdf  
+555 Timer Circuit KiCAD.pdf  
+
