@@ -20,5 +20,7 @@ KiCAD Exercise:
 
 FreeCAD:  
 FreeCAD Exercises.pdf  
+My555Timer.step   
+
 
 
