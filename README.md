@@ -18,3 +18,7 @@ KiCAD Exercise:
 555 Timer Circuit SimulIDE.pdf  
 555 Timer Circuit KiCAD.pdf  
 
+FreeCAD:
+FreeCAD Exercises.pdf  
+
+
