@@ -21,7 +21,8 @@ KiCAD Exercise:
 FreeCAD:  
 FreeCAD Exercises.pdf  
 My555Timer.step   
-FreeCAD STEP Enclosure Process.pdf     
+FeeCAD STEP Enclosure Procedure Ver 1_1_3.pdf (FreeCAD Version 1.1.3)
+FreeCAD STEP Enclosure Process.pdf (FreeCAD Version 1.0.2)    
 FreeCAD STEP Lid Process.pdf       
 
 
