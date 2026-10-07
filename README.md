@@ -1,24 +1,35 @@
-Course Planning:  
+# Basic Electronics Training
+
+Welcome to the training repository!
+
+## Downloads
+- **Course Documents:** Download the PDF files directly from the file list above.
+- **Binary Counter Simulator:** 
+  1. Download `Binary_Counter_V2.zip`.
+  2. Right-click the downloaded file and select **Extract All...**
+  3. Open the extracted folder and double-click `Binary_Counter_V2.exe`.
+
+### Course Planning:  
 Basic Electronics Training Planning Rev A.pdf
 
-Scripted Component Instructions:  
+### Scripted Component Instructions:  
 Scripted Component - DC Power Meter.pdf
 
-Scripted Component Files (DC Power Meter):  
+### Scripted Component Files (DC Power Meter):  
 SimulIDE_workspace.zip
 
-Scripted Component Files (RMS Voltmeter):  
+### Scripted Component Files (RMS Voltmeter):  
 Unzip RMS.zip  
 Copy RMS folder into Test folder of SimulIDE_workspace  
 
-Embedded Programming:  
+### Embedded Programming:  
 Arduino Functions & Concepts - Basic Electronics Course.pdf   
 
-KiCAD Exercise:  
+### KiCAD Exercise:  
 555 Timer Circuit SimulIDE.pdf  
 555 Timer Circuit KiCAD.pdf  
 
-FreeCAD:  
+### FreeCAD:  
 FreeCAD Exercises.pdf  
 My555Timer.step   
 FreeCAD STEP Enclosure Procedure Ver 1_1_3.pdf (FreeCAD Version 1.1.3)     
