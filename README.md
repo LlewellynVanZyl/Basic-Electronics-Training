@@ -30,7 +30,7 @@ Copy RMS folder into Test folder of SimulIDE_workspace
 `555 Timer Circuit KiCAD.pdf`  
 
 ### FreeCAD:  
-`FreeCAD Exercises.pdf` 
+`FreeCAD Exercises.pdf`   
 `My555Timer.step`  
 `FreeCAD STEP Enclosure Procedure Ver 1_1_3.pdf` (FreeCAD Version 1.1.3)     
 `FreeCAD STEP Enclosure Process.pdf` (FreeCAD Version 1.0.2)    
